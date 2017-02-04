@@ -30,7 +30,12 @@ La version deux de ExtazCMS, est une mise à jour majeure. Il s'agit de la refon
 * Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
 
 
-`ExtazCMS est la propriété d'Astralt et est géré par Lyes Belhadj.`
-`ExtazCMS is owned by Astralt and is managed by Lyes Belhadj.`
+##Property/propriété and/et copyright
+
+ExtazCMS est la propriété d'Astralt et est géré par Lyes Belhadj.
+
+ExtazCMS is owned by Astralt and is managed by Lyes Belhadj.
+
+
 
 `ExtazCMS © 2015-2017 Astralt - Tous droits réservés.`
