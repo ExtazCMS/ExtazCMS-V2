@@ -1,6 +1,6 @@
 # ExtazCMS V2
 
-![logo 1](http://extaz-cms.fr/images/logo.png)
+![logo 1](https://extaz-cms.fr/images/logo.png)
 
 ![logo 2](https://astralt.com/images/astralt/logo-texte.png)
 
