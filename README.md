@@ -32,9 +32,9 @@ La version deux de ExtazCMS, est une mise à jour majeure. Il s'agit de la refon
 
 ##Property/propriété and/et copyright
 
-ExtazCMS est la propriété d'Astralt et est géré par Lyes Belhadj.
+ExtazCMS est la propriété d'Astralt.
 
-ExtazCMS is owned by Astralt and is managed by Lyes Belhadj.
+ExtazCMS is owned by Astralt.
 
 
 
