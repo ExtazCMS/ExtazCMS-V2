@@ -2,8 +2,6 @@
 
 ![logo 1](https://extaz-cms.fr/images/logo.png)
 
-![logo 2](https://astralt.com/images/astralt/logo-texte.png)
-
 ##English version
 The version two of ExtazCMS, is a major update. This is the complete overhaul of the CMS, with a lot of new features and a new framework to run the ExtazCMS! The V2 uses the symfony framework (https://symfony.com/). The CMS is multilingual!
 
@@ -20,7 +18,7 @@ La version deux de ExtazCMS, est une mise à jour majeure. Il s'agit de la refon
 * The ExtazCMS team reserves the right to modify these conditions at any time
 
 ###Version française
-* Il est interdit de retirer la mention `propulsé par ExtazCMS © 2015-2017 Astralt - Tous droits réservés.`
+* Il est interdit de retirer la mention `propulsé par ExtazCMS © 2015-2017 - Tous droits réservés.`
 * Il est interdit de revendre ExtazCMS ou ses thèmes et plugins.
 * Il est interdit de redistribuer ExtazCMS même modifié, sans l'accord des auteurs de ce derniers.
 * L'équipe d'ExtazCMS se réserve le droit de modifier ces présentes conditions à tout moment.
@@ -32,10 +30,4 @@ La version deux de ExtazCMS, est une mise à jour majeure. Il s'agit de la refon
 
 ##Property/propriété and/et copyright
 
-ExtazCMS est la propriété d'Astralt.
-
-ExtazCMS is owned by Astralt.
-
-
-
-`ExtazCMS © 2015-2017 Astralt - Tous droits réservés.`
+`ExtazCMS © 2015-2017 - Tous droits réservés.`
